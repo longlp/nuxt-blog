@@ -1,0 +1,13 @@
+{
+  "name": "longlp",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "@nuxt/content": "^1.8.1",
+    "nuxt": "^2.14.4"
+  }
+}
