@@ -4,6 +4,7 @@ export default {
 	modules: [
     '@nuxt/content'
 	],
+	components: true,
 	content: {
 		// Options
 	}
