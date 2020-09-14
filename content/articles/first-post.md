@@ -1,12 +1,13 @@
 ---
 title: First Post
-description: Chuyến đi câu ở Bình Đại - Bến Tre, Tuy thành quả được rất nhiều cá nhưng trải nghiệm về đêm thực sự là một trải nghiệm nhớ đời.
+description: Bài post đầu tiên trong tutorial
 author: 
   name: Long Le
   bio: Yêu màu tím thích màu hồng
   img: https://avatars2.githubusercontent.com/u/7371708?s=460&u=0119dd6e17737afb9f29afd2d06a0f6859caa686&v=4
 tags: 
-  - web development
+  - Development
+  - Fishing
 ---
 
 ## This is my first content
